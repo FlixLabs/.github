@@ -28,7 +28,7 @@ If you find our work useful and would like to support development:
 - **Share Feedback**: Let us know your ideas, suggestions, or use cases.  
 - **Sponsor the Project**:  
   - *GitHub Sponsors* – You can support us directly through GitHub.  
-  - *Ko-fi / Buy Me a Coffee / PayPal* – Depending on personal preference, links may be found in each project’s README.
+  - *Ko-fi / Buy Me a Coffee / PayPal* – Depending on personal preference, links may be found in README.
 
 Your support enables us to keep improving our tools and deliver new features to the community.
 
