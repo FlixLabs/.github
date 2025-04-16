@@ -27,7 +27,7 @@ If you find our work useful and would like to support development:
 - **Contribute Code**: Submit pull requests or open issues on [GitHub](https://github.com/FlixLabs).  
 - **Share Feedback**: Let us know your ideas, suggestions, or use cases.  
 - **Sponsor the Project**:  
-  - *GitHub Sponsors* – You can support us directly through GitHub.
+  - *GitHub Sponsors* : You can support us directly through GitHub.
   - *Tipeee* : https://fr.tipeee.com/flixlabs
   - *Ko-fi* : https://ko-fi.com/flixlabs
 
