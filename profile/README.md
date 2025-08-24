@@ -9,8 +9,9 @@
 
 2. **[flix_api](https://github.com/FlixLabs/flix_api)**  
    A lightweight Node.js API that pairs with **flix_webapp** to unlock advanced features:  
-   - **Multi-instance management** for Radarr and Sonarr  
-   - **Basic Authentication** for additional security
+   - **Multi-instance management** for Radarr and Sonarr
+   - **Authentication** options for enhanced security
+   - **Color** options for enhanced UI
 
 ## Our Philosophy
 
